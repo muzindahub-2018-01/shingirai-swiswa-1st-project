@@ -1,0 +1,82 @@
+/*General style*/
+* {
+	box-sizing: border-box;
+}
+
+/* Element styles------*/
+
+body {
+	font-family:"Helvetica";
+}
+
+header {
+	line-height: 2;
+}
+
+h1 {
+   background-color:#ffa949;
+}
+
+h2 {
+	color: forestgreeen
+	letter-spacing: .4px
+}
+
+.mantra {
+	background-color: blue;
+	color: white;
+}
+
+main {
+	padding-top: 30px
+}
+
+footer {
+	width: 100%
+	padding: 10px 0 20px 10px;
+}
+
+.social-links {
+	font-size: .50em
+	margin-bottom: 10px
+}
+
+.copyright {
+	font-size: .50em
+	margin-right: 10px
+}
+
+/* Section styles-----*/
+
+.main-nav {
+	width: 100%;
+	min-height: 20px;
+	background: darkblue;
+	padding: 5px;
+	text-align: center;
+}
+
+/* Anchor styles------*/
+
+a:hover {
+	color: tomato;
+}
+
+/* Images styles-------*/
+
+.tailor-image {
+   margin-top: 30px;
+   width: 100px;
+   height: 100px;
+   border-radius: 30%;
+   border: dashed blue 2px;
+}
+
+/* Media Queries-------*/
+
+@media (max-width: 1020px) {
+	.main-image {
+		background-color: firebrick;
+		color: white;
+	}
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mai Taps' Catalogue</title>
+		<link rel="stylesheet" href="catalogue.css">
+	</head>
+	<body>
+	 <img src="http://placeimg.com/200/200/people" alt="Tailored clothes model" class="main-image">
+	 <h1>Mai Taps, Tailor</h1>
+	 <h2 class="section-title">Summary of Catalogue</h2>
+	 <ul>
+	 	<li>African wear</li>
+	 	<li>Formal wear</li>
+	 	<li>Baby wear</li>
+	 	<li>Casual wear</li>
+	 	<li>Occasion wear</li>
+	 	<li>Home accessories</li>
+	 </ul>
+	</body>
+</html>

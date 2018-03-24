@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>Mai Taps' Tailory</title>
+  <link rel="stylesheet" href="index.css"
+  <meta name="viewport" content="width=device-width"
+ </head>
+
+ <body>
+  <div class="main-nav">
+	   <ul>
+		    <li><a href="#">Home</a></li>
+		    <li><a href="catalogue.html">Catalogue</a></li>
+		    <li><a href="contacts.html">Contacts</a></li>
+	   </ul>
+  </div>
+
+  <header>
+	  <img src="images/MaiTaps.jpg" alt="Mai Taps smiling face" class="tailor-image">
+	  <h1>Mai Taps the Tailor</h1>
+	  <p class="mantra">The clothes tailored just for your body</p>
+  </header>
+
+  <main>
+  	<div>
+	  <h2>African wear</h2>
+	  <p>Lets make you love African taste and custom wear</p>
+	</div>
+
+	<div>
+	  <h2>Formal wear</h2>
+	  <p>Let's make you look exquisite and ready for business</p>
+	</div>
+
+	 <div>
+	  <h2>Baby wear</h2>
+	  <p>Let's make your baby feel in style</p>
+	</div>
+
+	<div>
+	  <h2>Casual wear</h2>
+	  <p>Let's make you look admirable and geared for social</p>
+	</div>
+
+	<div>
+	  <h2>Ocassion wear</h2>
+	  <p>Let's make you look stunning or breathtaking and ready for some action</p>
+	</div>
+
+	<div>
+	  <h2>Home accessories</h2>
+	  <p>Let's make your house into a home</p>
+	</div>
+
+  </main>
+
+  <footer>
+  	<ul>
+  	  <li><a href="http://twitter.com/MaiTapsTailor" target="_blank" class="social twitter">Twitter</li>
+  	  <li><a href="http://facebook.com/MaiTapsTailor" target="_blank" class="social facebook">Facebook</li>
+  	  <li><a href="http://instagram.com/MaiTapsTailor" target="_blank" class="social instagram">Instagram</li>
+    </ul>
+   <p class="copyright">Copyright 2018, Mai Taps' Tailory</p>
+  </footer>
+ </body>
+</html>

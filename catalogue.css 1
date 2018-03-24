@@ -1,0 +1,38 @@
+/* General style------*/
+* {
+	box-sizing: border-box;
+}
+
+/* Element styles------*/
+body {
+ font-family: Helvetica;
+}
+
+header {
+	line-height: 1.5;
+}
+
+h1 {
+ color: #fa3;
+ padding: 5px;
+}
+
+.section-title {
+  text-transform: uppercase;
+}
+
+/* Image styles------*/
+
+.main-image {
+	border:solid black 4px;
+   border-radius:50%
+}
+
+/* Media Queries-------*/
+
+@media (max-width: 1020px) {
+	.main-image {
+		background-color: tomato;
+		color: white;
+	}
+}
